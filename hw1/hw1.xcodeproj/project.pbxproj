@@ -148,6 +148,7 @@
 				DEVELOPMENT_TEAM = T5A8UW3Z7P;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = hw1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Rock Game";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -180,6 +181,7 @@
 				DEVELOPMENT_TEAM = T5A8UW3Z7P;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = hw1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Rock Game";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
