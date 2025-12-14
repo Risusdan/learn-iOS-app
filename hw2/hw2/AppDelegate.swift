@@ -34,3 +34,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+#Preview {
+let storyboard = UIStoryboard(name: "Main", bundle: nil)
+return storyboard.instantiateInitialViewController()!
+}
